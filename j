@@ -6,7 +6,7 @@
     "cover": "https://i.imgur.com/QY6w6EN.jpg",
     "chapters": {
         "194": {
-            "title": "194",
+            "title": "Color Chapter 194 (JP)",
             "volume": "20",
             "last_updated": "1656864671",
             "groups": {
@@ -33,7 +33,7 @@
             }
         },
         "195": {
-            "title": "195",
+            "title": "Color Chapter 195 (JP)",
             "volume": "20",
             "last_updated": "1656864671",
             "groups": {
@@ -61,7 +61,7 @@
             }
         },
         "200": {
-            "title": "200",
+            "title": "Color Chapter 200 (JP)",
             "volume": "20",
             "last_updated": "1656864671",
             "groups": {
@@ -88,7 +88,7 @@
             }
         },
         "208": {
-            "title": "208",
+            "title": "Color Chapter 208 (JP)",
             "volume": "21",
             "last_updated": "1656864671",
             "groups": {
@@ -116,7 +116,7 @@
             }
         },
         "217": {
-            "title": "217",
+            "title": "Color Chapter 217 (JP)",
             "volume": "22",
             "last_updated": "1656864671",
             "groups": {
@@ -144,7 +144,7 @@
             }
         },
         "218": {
-            "title": "218",
+            "title": "Color Chapter 218 (JP)",
             "volume": "22",
             "last_updated": "1656864671",
             "groups": {
@@ -171,7 +171,7 @@
             }
         },
         "219": {
-            "title": "219",
+            "title": "Color Chapter 219 (JP)",
             "volume": "22",
             "last_updated": "1656864671",
             "groups": {
@@ -198,7 +198,7 @@
             }
         },
         "220": {
-            "title": "220",
+            "title": "Color Chapter 220 (JP)",
             "volume": "22",
             "last_updated": "1656864671",
             "groups": {
@@ -225,7 +225,7 @@
             }
         },
         "221": {
-            "title": "221",
+            "title": "Color Chapter 221 (JP)",
             "volume": "22",
             "last_updated": "1656864671",
             "groups": {
@@ -252,7 +252,7 @@
             }
         },
         "223": {
-            "title": "223",
+            "title": "Color Chapter 223 (JP)",
             "volume": "23",
             "last_updated": "1656864671",
             "groups": {
@@ -279,7 +279,7 @@
             }
         },
         "226": {
-            "title": "226",
+            "title": "Color Chapter 226 (JP)",
             "volume": "23",
             "last_updated": "1656864671",
             "groups": {
@@ -307,7 +307,7 @@
             }
         },
         "227": {
-            "title": "227",
+            "title": "Color Chapter 227 (JP)",
             "volume": "23",
             "last_updated": "1656864671",
             "groups": {
@@ -334,7 +334,7 @@
             }
         },
         "228": {
-            "title": "228",
+            "title": "Color Chapter 228 (JP)",
             "volume": "23",
             "last_updated": "1656864671",
             "groups": {
@@ -361,7 +361,7 @@
             }
         },
         "229": {
-            "title": "229",
+            "title": "Color Chapter 229 (JP)",
             "volume": "23",
             "last_updated": "1656864671",
             "groups": {
@@ -389,7 +389,7 @@
             }
         },
         "230": {
-            "title": "230",
+            "title": "Color Chapter 230 (JP)",
             "volume": "23",
             "last_updated": "1656864671",
             "groups": {
@@ -416,7 +416,7 @@
             }
         },
         "231": {
-            "title": "231",
+            "title": "Color Chapter 231 (JP)",
             "volume": "23",
             "last_updated": "1656864671",
             "groups": {
@@ -443,7 +443,7 @@
             }
         },
         "232": {
-            "title": "232",
+            "title": "Color Chapter 232 (JP)",
             "volume": "24",
             "last_updated": "1656864671",
             "groups": {
@@ -470,7 +470,7 @@
             }
         },
         "233": {
-            "title": "233",
+            "title": "Color Chapter 233 (JP)",
             "volume": "24",
             "last_updated": "1656864671",
             "groups": {
@@ -497,7 +497,7 @@
             }
         },
         "234": {
-            "title": "234",
+            "title": "Color Chapter 234 (JP)",
             "volume": "24",
             "last_updated": "1656864671",
             "groups": {
@@ -525,7 +525,7 @@
             }
         },
         "238": {
-            "title": "238",
+            "title": "Color Chapter 238 (JP)",
             "volume": "24",
             "last_updated": "1656864671",
             "groups": {
@@ -553,7 +553,7 @@
             }
         },
         "240": {
-            "title": "240",
+            "title": "Color Chapter 240 (JP)",
             "volume": "24",
             "last_updated": "1656864671",
             "groups": {
@@ -580,7 +580,7 @@
             }
         },
         "243": {
-            "title": "243",
+            "title": "Color Chapter 243 (JP)",
             "volume": "25",
             "last_updated": "1656864671",
             "groups": {
@@ -607,7 +607,7 @@
             }
         },
         "244": {
-            "title": "244",
+            "title": "Color Chapter 244 (JP)",
             "volume": "25",
             "last_updated": "1656864671",
             "groups": {
@@ -634,7 +634,7 @@
             }
         },
         "245": {
-            "title": "245",
+            "title": "Color Chapter 245 (JP)",
             "volume": "25",
             "last_updated": "1656864671",
             "groups": {
@@ -661,7 +661,7 @@
             }
         },
         "246": {
-            "title": "246",
+            "title": "Color Chapter 246 (JP)",
             "volume": "25",
             "last_updated": "1656864671",
             "groups": {
@@ -688,7 +688,7 @@
             }
         },
         "248": {
-            "title": "248",
+            "title": "Color Chapter 248 (JP)",
             "volume": "25",
             "last_updated": "1656864671",
             "groups": {

@@ -5,6 +5,33 @@
     "author": "Aka Akasaka",
     "cover": "https://i.imgur.com/QY6w6EN.jpg",
     "chapters": {
+        "192": {
+            "title": "Color Chapter 192 (JP)",
+            "volume": "20",
+            "last_updated": "1658722690",
+            "groups": {
+                "raws - cheese": [
+    "https://i.imgur.com/wYOThAI.png",
+    "https://i.imgur.com/XEPThxx.png",
+    "https://i.imgur.com/ZUWhp52.png",
+    "https://i.imgur.com/rkzpdfV.png",
+    "https://i.imgur.com/Pijj2GU.png",
+    "https://i.imgur.com/cf5fwOp.png",
+    "https://i.imgur.com/3gnX0Uu.png",
+    "https://i.imgur.com/J0655DV.png",
+    "https://i.imgur.com/H1n7JSi.png",
+    "https://i.imgur.com/aqhxBJ8.png",
+    "https://i.imgur.com/3BbyAsW.png",
+    "https://i.imgur.com/QxoWmZk.png",
+    "https://i.imgur.com/CBboMMq.png",
+    "https://i.imgur.com/cd6UmoT.png",
+    "https://i.imgur.com/5gKN2mW.png",
+    "https://i.imgur.com/SElW6j1.png",
+    "https://i.imgur.com/CtoEyUT.png",
+    "https://i.imgur.com/NqZr5CP.png"
+                ]
+            }
+        },
         "194": {
             "title": "Color Chapter 194 (JP)",
             "volume": "20",

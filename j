@@ -660,6 +660,33 @@
                 ]
             }
         },
+        "242": {
+            "title": "Color Chapter 242 (JP)",
+            "volume": "25",
+            "last_updated": "1658956051",
+            "groups": {
+                "raws": [
+    "https://i.imgur.com/UnDbQOL.png",
+    "https://i.imgur.com/ylqbCHc.png",
+    "https://i.imgur.com/AQEfSjs.png",
+    "https://i.imgur.com/dFy0a0n.png",
+    "https://i.imgur.com/O7MhQ6V.png",
+    "https://i.imgur.com/5uRoDk5.png",
+    "https://i.imgur.com/4xh48zJ.png",
+    "https://i.imgur.com/xBlahIY.png",
+    "https://i.imgur.com/pa3dnoA.png",
+    "https://i.imgur.com/iMVjEM0.png",
+    "https://i.imgur.com/VM8ChOE.png",
+    "https://i.imgur.com/GZelciD.png",
+    "https://i.imgur.com/IpEVKE7.png",
+    "https://i.imgur.com/xP6CuJU.png",
+    "https://i.imgur.com/CGFEd4b.png",
+    "https://i.imgur.com/X4rlYBl.png",
+    "https://i.imgur.com/9Duxb0O.png",
+    "https://i.imgur.com/SHsydvG.png"
+                ]
+            }
+        },
         "243": {
             "title": "Color Chapter 243 (JP)",
             "volume": "25",

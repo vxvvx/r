@@ -934,27 +934,54 @@
         "249": {
             "title": "Color Chapter 249 (JP)",
             "volume": "25",
-            "last_updated": "1659124277",
+            "last_updated": "1659129284",
             "groups": {
                 "raws - cheese": [
-    "https://i.imgur.com/QuGOCXR.png?_w.",
-    "https://i.imgur.com/E628VyY.png?_w.",
-    "https://i.imgur.com/VLiF2pD.png?_w.",
-    "https://i.imgur.com/obkuPkC.png?_w.",
-    "https://i.imgur.com/wC5qXux.png?_w.",
-    "https://i.imgur.com/fCflBSW.png?_w.",
-    "https://i.imgur.com/voFJ0QG.png?_w.",
-    "https://i.imgur.com/ET8HzBE.png?_w.",
-    "https://i.imgur.com/mMumVk0.png?_w.",
-    "https://i.imgur.com/Uu58Dqc.png?_w.",
-    "https://i.imgur.com/QHRXOhf.png?_w.",
-    "https://i.imgur.com/2lRJGKE.png?_w.",
-    "https://i.imgur.com/v2yIPsk.png?_w.",
-    "https://i.imgur.com/clFMCDi.png?_w.",
-    "https://i.imgur.com/muN4wBa.png?_w.",
-    "https://i.imgur.com/4KYkgsV.png?_w.",
-    "https://i.imgur.com/zYFB1od.png?_w.",
-    "https://i.imgur.com/uE4o1Hp.png?_w."
+    "https://i.imgur.com/QuGOCXR.png?1",
+    "https://i.imgur.com/E628VyY.png?1",
+    "https://i.imgur.com/VLiF2pD.png?1",
+    "https://i.imgur.com/obkuPkC.png?1",
+    "https://i.imgur.com/wC5qXux.png?1",
+    "https://i.imgur.com/fCflBSW.png?1",
+    "https://i.imgur.com/voFJ0QG.png?1",
+    "https://i.imgur.com/ET8HzBE.png?4",
+    "https://i.imgur.com/mMumVk0.png?1",
+    "https://i.imgur.com/Uu58Dqc.png?1",
+    "https://i.imgur.com/QHRXOhf.png?1",
+    "https://i.imgur.com/2lRJGKE.png?1",
+    "https://i.imgur.com/v2yIPsk.png?1",
+    "https://i.imgur.com/clFMCDi.png?1",
+    "https://i.imgur.com/muN4wBa.png?1",
+    "https://i.imgur.com/4KYkgsV.png?1",
+    "https://i.imgur.com/zYFB1od.png?1",
+    "https://i.imgur.com/uE4o1Hp.png?1"
+                ]
+            }
+        },
+        "250": {
+            "title": "Color Chapter 250 (JP)",
+            "volume": "25",
+            "last_updated": "1659129370",
+            "groups": {
+                "raws - cheese": [
+    "https://i.imgur.com/Ds9YVzO.png",
+    "https://i.imgur.com/vNUb5dc.png",
+    "https://i.imgur.com/vGuJjk6.png",
+    "https://i.imgur.com/lMkEPeJ.png",
+    "https://i.imgur.com/ZNH0stt.png",
+    "https://i.imgur.com/rVRiF4O.png",
+    "https://i.imgur.com/TQGq7AC.png",
+    "https://i.imgur.com/NuIhVPC.png",
+    "https://i.imgur.com/3hNnIVd.png",
+    "https://i.imgur.com/5nbLCZi.png",
+    "https://i.imgur.com/YJGerqk.png",
+    "https://i.imgur.com/h7k3c54.png",
+    "https://i.imgur.com/xETvSUg.png",
+    "https://i.imgur.com/DM0nUXk.png",
+    "https://i.imgur.com/0BQuy9x.png",
+    "https://i.imgur.com/hK23sLq.png",
+    "https://i.imgur.com/DKRNi1B.png",
+    "https://i.imgur.com/8WCovqf.png"
                 ]
             }
         }

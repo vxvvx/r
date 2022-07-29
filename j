@@ -984,6 +984,33 @@
     "https://i.imgur.com/8WCovqf.png"
                 ]
             }
+        },
+        "251": {
+            "title": "Color Chapter 251 (JP)",
+            "volume": "25",
+            "last_updated": "1659134873",
+            "groups": {
+                "raws - cheese": [
+    "https://i.imgur.com/rNcIuHv.png",
+    "https://i.imgur.com/xTU3cqP.png",
+    "https://i.imgur.com/KnOWzhR.png",
+    "https://i.imgur.com/qTvPMTK.png",
+    "https://i.imgur.com/mmRIu8C.png",
+    "https://i.imgur.com/jlXIPF4.png",
+    "https://i.imgur.com/yknRua5.png",
+    "https://i.imgur.com/aBMwKym.png",
+    "https://i.imgur.com/fxl6DVN.png",
+    "https://i.imgur.com/IPTF6fJ.png",
+    "https://i.imgur.com/7cHbSwu.png",
+    "https://i.imgur.com/7GZUBTU.png",
+    "https://i.imgur.com/wZgK08i.png",
+    "https://i.imgur.com/QTKmyit.png",
+    "https://i.imgur.com/QFpQdCe.png",
+    "https://i.imgur.com/KxBnX4y.png",
+    "https://i.imgur.com/VbLNdsQ.png",
+    "https://i.imgur.com/fHTUKOI.png"
+                ]
+            }
         }
     }
 }

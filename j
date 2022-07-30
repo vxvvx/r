@@ -389,27 +389,27 @@
         "220": {
             "title": "Color Chapter 220 (JP)",
             "volume": "22",
-            "last_updated": "1656864671",
+            "last_updated": "1659203715",
             "groups": {
-                "raws": [
-                    "https://i.imgur.com/5OaTcZC.png",
-                    "https://i.imgur.com/RMAY61z.png",
-                    "https://i.imgur.com/MsPJcnR.png",
-                    "https://i.imgur.com/5ycBiA2.png",
-                    "https://i.imgur.com/D3E6nG0.png",
-                    "https://i.imgur.com/ViZileS.png",
-                    "https://i.imgur.com/bABDr7P.png",
-                    "https://i.imgur.com/KIoQku8.png",
-                    "https://i.imgur.com/mpoGD1C.png",
-                    "https://i.imgur.com/lATTdKt.png",
-                    "https://i.imgur.com/OlUOYkL.png",
-                    "https://i.imgur.com/2uzr3xO.png",
-                    "https://i.imgur.com/mfpDkNR.png",
-                    "https://i.imgur.com/ADHcfWp.png",
-                    "https://i.imgur.com/n9sXPMT.png",
-                    "https://i.imgur.com/fs7HLNw.png",
-                    "https://i.imgur.com/suEUj93.png",
-                    "https://i.imgur.com/IZcqwV7.png"
+                "raws - HQ": [
+    "https://i.imgur.com/plnO6zm.png",
+    "https://i.imgur.com/b78FSOT.png",
+    "https://i.imgur.com/mEfBLo3.png",
+    "https://i.imgur.com/P3cfZqb.png",
+    "https://i.imgur.com/sFGlfMF.png",
+    "https://i.imgur.com/79vv4rL.png",
+    "https://i.imgur.com/zLiJaUx.png",
+    "https://i.imgur.com/RmRki76.png",
+    "https://i.imgur.com/RdRqU4I.png",
+    "https://i.imgur.com/S92JZYP.png",
+    "https://i.imgur.com/BGWr4Um.png",
+    "https://i.imgur.com/X3oFRTW.png",
+    "https://i.imgur.com/3Tqt6DL.png",
+    "https://i.imgur.com/OXyMKi8.png",
+    "https://i.imgur.com/exj2bM9.png",
+    "https://i.imgur.com/kVlu8Aw.png",
+    "https://i.imgur.com/RlKZWac.png",
+    "https://i.imgur.com/eVjADT5.png"
                 ]
             }
         },

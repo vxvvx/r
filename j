@@ -195,6 +195,33 @@
                 ]
             }
         },
+        "203": {
+            "title": "Color Chapter 203 (JP)",
+            "volume": "21",
+            "last_updated": "1659158796",
+            "groups": {
+                "raws": [
+    "https://i.imgur.com/SQM3kVG.png",
+    "https://i.imgur.com/oYhBOKz.png",
+    "https://i.imgur.com/QXrS1aO.png",
+    "https://i.imgur.com/fONEyIg.png",
+    "https://i.imgur.com/7YZBSNT.png",
+    "https://i.imgur.com/gTrkM8B.png",
+    "https://i.imgur.com/rnnPxMQ.png",
+    "https://i.imgur.com/LFeO4pE.png",
+    "https://i.imgur.com/uwrRYrX.png",
+    "https://i.imgur.com/5eD7q8A.png",
+    "https://i.imgur.com/sbyh8ue.png",
+    "https://i.imgur.com/pRVlZmA.png",
+    "https://i.imgur.com/Uy4PRto.png",
+    "https://i.imgur.com/PBi6umv.png",
+    "https://i.imgur.com/GyI5jjS.png",
+    "https://i.imgur.com/YdTNauc.png",
+    "https://i.imgur.com/c5kj2S5.png",
+    "https://i.imgur.com/lOpV9JS.png"
+                ]
+            }
+        },
         "208": {
             "title": "Color Chapter 208 (JP)",
             "volume": "21",

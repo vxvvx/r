@@ -141,12 +141,39 @@
                 ]
             }
         },
+        "201": {
+            "title": "Color Chapter 201 (JP)",
+            "volume": "20",
+            "last_updated": "1659155429",
+            "groups": {
+                "raws - cheese": [
+    "https://i.imgur.com/KJDzXE4.png",
+    "https://i.imgur.com/KiK5RKO.png",
+    "https://i.imgur.com/E2yHp2V.png",
+    "https://i.imgur.com/nTZy6iQ.png",
+    "https://i.imgur.com/80IbdqT.png",
+    "https://i.imgur.com/ZCVIZtl.png",
+    "https://i.imgur.com/mVSyyNa.png",
+    "https://i.imgur.com/W1VAoCJ.png",
+    "https://i.imgur.com/PipMjoH.png",
+    "https://i.imgur.com/meZtO6t.png",
+    "https://i.imgur.com/5nnqp9O.png",
+    "https://i.imgur.com/MZQtwrX.png",
+    "https://i.imgur.com/TwER2m1.png",
+    "https://i.imgur.com/hKHhdZM.png",
+    "https://i.imgur.com/FpZ8ffg.png",
+    "https://i.imgur.com/7iBjq3f.png",
+    "https://i.imgur.com/EOyeldE.png",
+    "https://i.imgur.com/K8XHaKw.png"
+                ]
+            }
+        },
         "202": {
             "title": "Color Chapter 202 (JP)",
             "volume": "21",
             "last_updated": "1659152915",
             "groups": {
-                "raws": [
+                "raws - cheese": [
     "https://i.imgur.com/N1kvj7h.png",
     "https://i.imgur.com/r6sVxhA.png",
     "https://i.imgur.com/kq4nh5A.png",

@@ -225,7 +225,7 @@
         "204": {
             "title": "Color Chapter 204 (JP)",
             "volume": "21",
-            "last_updated": "1659159621",
+            "last_updated": "1659242528",
             "groups": {
                 "raws - vex840p": [
                     "https://i.imgur.com/hTdKB3p.png",

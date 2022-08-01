@@ -114,6 +114,33 @@
                 ]
             }
         },
+        "196": {
+            "title": "Color Chapter 196 (JP)",
+            "volume": "20",
+            "last_updated": "1659391193",
+            "groups": {
+                "raws - cheese": [
+                    "https://i.imgur.com/LDZ2J2v.jpg",
+                    "https://i.imgur.com/45l8l7m.jpg",
+                    "https://i.imgur.com/Cb6KGES.jpg",
+                    "https://i.imgur.com/QEiq97w.jpg",
+                    "https://i.imgur.com/KQC9EtW.jpg",
+                    "https://i.imgur.com/f4FUIKF.jpg",
+                    "https://i.imgur.com/IghYkRn.jpg",
+                    "https://i.imgur.com/SatEOZ2.jpg",
+                    "https://i.imgur.com/yiS4wNx.jpg",
+                    "https://i.imgur.com/txPr63E.jpg",
+                    "https://i.imgur.com/MgiLxXA.jpg",
+                    "https://i.imgur.com/eyQRS7w.jpg",
+                    "https://i.imgur.com/RF8aEnx.jpg",
+                    "https://i.imgur.com/XBm7uRN.jpg",
+                    "https://i.imgur.com/JrURnAA.jpg",
+                    "https://i.imgur.com/Vr2VaIe.jpg",
+                    "https://i.imgur.com/EfGl0jc.jpg",
+                    "https://i.imgur.com/XWDAo4b.jpg"
+                ]
+            }
+        },
         "200": {
             "title": "Color Chapter 200 (JP)",
             "volume": "20",

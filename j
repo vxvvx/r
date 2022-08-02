@@ -168,6 +168,60 @@
                 ]
             }
         },
+        "198": {
+            "title": "Color Chapter 198 (JP)",
+            "volume": "20",
+            "last_updated": "1659476572",
+            "groups": {
+                "raws - cheese": [
+                    "https://i.imgur.com/SjFEo8a.png",
+                    "https://i.imgur.com/D0OjO1H.png",
+                    "https://i.imgur.com/zoni0hH.png",
+                    "https://i.imgur.com/0L6dCzK.png",
+                    "https://i.imgur.com/BtfVqAB.png",
+                    "https://i.imgur.com/12eKxqQ.png",
+                    "https://i.imgur.com/Qjjwgsw.png",
+                    "https://i.imgur.com/bX5T6EI.png",
+                    "https://i.imgur.com/wKc4pM8.png",
+                    "https://i.imgur.com/hns0J8w.png",
+                    "https://i.imgur.com/tm68vbU.png",
+                    "https://i.imgur.com/meUdT7e.png",
+                    "https://i.imgur.com/vNSIHvh.png",
+                    "https://i.imgur.com/QFvFY1z.png",
+                    "https://i.imgur.com/0cwtTO1.png",
+                    "https://i.imgur.com/W6MR4dG.png",
+                    "https://i.imgur.com/uBkcbvT.png",
+                    "https://i.imgur.com/ZcOsP3u.png"
+                ]
+            }
+        },
+        "199": {
+            "title": "Color Chapter 199 (JP)",
+            "volume": "20",
+            "last_updated": "1659476633",
+            "groups": {
+                "raws - cheese": [
+                    "https://i.imgur.com/0oNp3VC.png",
+                    "https://i.imgur.com/QTad4mG.png",
+                    "https://i.imgur.com/2Ys81wX.png",
+                    "https://i.imgur.com/ZmCRVo0.png",
+                    "https://i.imgur.com/eyyS5qL.png",
+                    "https://i.imgur.com/g3rAGvO.png",
+                    "https://i.imgur.com/ZRN23zu.png",
+                    "https://i.imgur.com/Qq1jUpD.png",
+                    "https://i.imgur.com/DFeIU0s.png",
+                    "https://i.imgur.com/dM3KA8d.png",
+                    "https://i.imgur.com/j8NUd4F.png",
+                    "https://i.imgur.com/vVtPIVR.png",
+                    "https://i.imgur.com/8AFLvzR.png",
+                    "https://i.imgur.com/qSIBudS.png",
+                    "https://i.imgur.com/ccc3e1E.png",
+                    "https://i.imgur.com/a31Mzbh.png",
+                    "https://i.imgur.com/Hj3LSxX.png",
+                    "https://i.imgur.com/EsX97qC.png"
+                ]
+            }
+        },
         "200": {
             "title": "Color Chapter 200 (JP)",
             "volume": "20",

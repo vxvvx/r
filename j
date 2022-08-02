@@ -141,6 +141,33 @@
                 ]
             }
         },
+        "197": {
+            "title": "Color Chapter 197 (JP)",
+            "volume": "20",
+            "last_updated": "1659443097",
+            "groups": {
+                "raws - cheese": [
+                    "https://i.imgur.com/ci4tW42.jpg",
+                    "https://i.imgur.com/vsX7MXa.jpg",
+                    "https://i.imgur.com/wXm5bPf.jpg",
+                    "https://i.imgur.com/RgCjuKj.jpg",
+                    "https://i.imgur.com/GwhRKx8.jpg",
+                    "https://i.imgur.com/9R84GUc.jpg",
+                    "https://i.imgur.com/a4Wg5iG.jpg",
+                    "https://i.imgur.com/RZ5i8dn.jpg",
+                    "https://i.imgur.com/T9k3p07.jpg",
+                    "https://i.imgur.com/SfdeSK5.jpg",
+                    "https://i.imgur.com/KueyuMZ.jpg",
+                    "https://i.imgur.com/5QbZZSo.jpg",
+                    "https://i.imgur.com/eGW3E80.jpg",
+                    "https://i.imgur.com/rjewy9Z.jpg",
+                    "https://i.imgur.com/Juz8Xik.jpg",
+                    "https://i.imgur.com/IdhNjkc.jpg",
+                    "https://i.imgur.com/q44MAyF.jpg",
+                    "https://i.imgur.com/kdMVNTm.jpg"
+                ]
+            }
+        },
         "200": {
             "title": "Color Chapter 200 (JP)",
             "volume": "20",

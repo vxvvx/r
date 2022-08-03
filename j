@@ -411,6 +411,34 @@
                 ]
             }
         },
+        "207": {
+            "title": "Color Chapter 207 (JP)",
+            "volume": "21",
+            "last_updated": "1659498766",
+            "groups": {
+                "raws - cheese": [
+                    "https://i.imgur.com/F5hYphJ.png",
+                    "https://i.imgur.com/6OVlkb6.png",
+                    "https://i.imgur.com/HWLqWyW.png",
+                    "https://i.imgur.com/ASxxPea.png",
+                    "https://i.imgur.com/wjLHO60.png",
+                    "https://i.imgur.com/zMAR5yk.png",
+                    "https://i.imgur.com/k6HqABI.png",
+                    "https://i.imgur.com/1rdc8A5.png",
+                    "https://i.imgur.com/XjvYX8X.png",
+                    "https://i.imgur.com/2NNz6pe.png",
+                    "https://i.imgur.com/DSqqjrg.png",
+                    "https://i.imgur.com/KrRfnVp.png",
+                    "https://i.imgur.com/pKr2Atz.png",
+                    "https://i.imgur.com/1o0XEO2.png",
+                    "https://i.imgur.com/FeO12tQ.png",
+                    "https://i.imgur.com/eUSie5H.png",
+                    "https://i.imgur.com/7ZMHW1M.png",
+                    "https://i.imgur.com/GSlWzxo.png"
+
+                ]
+            }
+        },
         "208": {
             "title": "Color Chapter 208 (JP)",
             "volume": "21",
@@ -436,6 +464,33 @@
                     "https://i.imgur.com/P2YHW0d.png",
                     "https://i.imgur.com/Y36y1b9.png",
                     "https://i.imgur.com/UnuEj5z.png"
+                ]
+            }
+        },
+        "209": {
+            "title": "Color Chapter 209 (JP)",
+            "volume": "21",
+            "last_updated": "1659498833",
+            "groups": {
+                "raws - cheese": [
+                    "https://i.imgur.com/Uthzwxm.png",
+                    "https://i.imgur.com/SwE2um6.png",
+                    "https://i.imgur.com/KEPAtu4.png",
+                    "https://i.imgur.com/5Uq0kBR.png",
+                    "https://i.imgur.com/3EzOR9F.png",
+                    "https://i.imgur.com/a1m7xjg.png",
+                    "https://i.imgur.com/xIyq2bI.png",
+                    "https://i.imgur.com/QIX5QG1.png",
+                    "https://i.imgur.com/r4blZSw.png",
+                    "https://i.imgur.com/Nw0oyXw.png",
+                    "https://i.imgur.com/Op3YvoX.png",
+                    "https://i.imgur.com/JFwWsmH.png",
+                    "https://i.imgur.com/0JSKOXM.png",
+                    "https://i.imgur.com/AKEt3HZ.png",
+                    "https://i.imgur.com/LqLIFYZ.png",
+                    "https://i.imgur.com/fpO5AcA.png",
+                    "https://i.imgur.com/NQ4fEoB.png",
+                    "https://i.imgur.com/zOffUrc.png"
                 ]
             }
         },

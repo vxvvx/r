@@ -1,5 +1,5 @@
 {
-    "title": "Kaguya Color Raws (Vols 19+) (JP)",
+    "title": "Kaguya Color Raws (Vols 20+) (JP)",
     "description": "Archive for color chapter raws.",
     "artist": "Aka Akasaka",
     "author": "Aka Akasaka",

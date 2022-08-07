@@ -820,6 +820,34 @@
                 ]
             }
         },
+        "224": {
+            "title": "Color Chapter 224 (JP)",
+            "volume": "23",
+            "last_updated": "1659837872",
+            "groups": {
+                "raws - cheeseHQ": [
+                    "https://i.imgur.com/Gbdfs3N.jpg",
+                    "https://i.imgur.com/DMhrbRl.jpg",
+                    "https://i.imgur.com/NRV8StN.jpg",
+                    "https://i.imgur.com/iBeQVZL.jpg",
+                    "https://i.imgur.com/s6ZI5pp.jpg",
+                    "https://i.imgur.com/5XtcwiU.jpg",
+                    "https://i.imgur.com/H9FTRjU.jpg",
+                    "https://i.imgur.com/BqLVG2V.jpg",
+                    "https://i.imgur.com/eOjAztw.jpg",
+                    "https://i.imgur.com/ktuJbLf.jpg",
+                    "https://i.imgur.com/QC0MxNh.jpg",
+                    "https://i.imgur.com/wTo1fgQ.jpg",
+                    "https://i.imgur.com/FDbV19a.jpg",
+                    "https://i.imgur.com/0lQmYub.jpg",
+                    "https://i.imgur.com/dB9NT4d.jpg",
+                    "https://i.imgur.com/zd5TttG.jpg",
+                    "https://i.imgur.com/OhrFFxB.jpg",
+                    "https://i.imgur.com/yjyQuXa.jpg"
+
+                ]
+            }
+        },
         "226": {
             "title": "Color Chapter 226 (JP)",
             "volume": "23",
@@ -1063,6 +1091,33 @@
                     "https://i.imgur.com/8kUyypG.jpg",
                     "https://i.imgur.com/Fy7p0Ix.jpg",
                     "https://i.imgur.com/6e6KWn8.jpg"
+                ]
+            }
+        },
+        "237": {
+            "title": "Color Chapter 237 (JP)",
+            "volume": "24",
+            "last_updated": "1659837951",
+            "groups": {
+                "raws - cheeseHQ": [
+                    "https://i.imgur.com/AmzeKmm.png",
+                    "https://i.imgur.com/vgE39XU.png",
+                    "https://i.imgur.com/lItq9uV.png",
+                    "https://i.imgur.com/yrHpgqV.png",
+                    "https://i.imgur.com/4kpV3Xo.png",
+                    "https://i.imgur.com/ga8v8in.png",
+                    "https://i.imgur.com/j4D7ySE.png",
+                    "https://i.imgur.com/eJ1g4Ka.png",
+                    "https://i.imgur.com/NcOiXaN.png",
+                    "https://i.imgur.com/c2XSWqg.png",
+                    "https://i.imgur.com/rNl9I3n.png",
+                    "https://i.imgur.com/MOctTaR.png",
+                    "https://i.imgur.com/XgG32S7.png",
+                    "https://i.imgur.com/sXCygFb.png",
+                    "https://i.imgur.com/4A1TzRG.png",
+                    "https://i.imgur.com/RJI7hEM.png",
+                    "https://i.imgur.com/cNBOvTC.png",
+                    "https://i.imgur.com/RdUqDnV.png"
                 ]
             }
         },

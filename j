@@ -603,6 +603,33 @@
                 ]
             }
         },
+        "216": {
+            "title": "Color Chapter 216 (JP)",
+            "volume": "22",
+            "last_updated": "1659834522",
+            "groups": {
+                "raws - cheeseHQ": [
+                    "https://i.imgur.com/q4e9HzM.jpg",
+                    "https://i.imgur.com/DAKJ6fW.jpg",
+                    "https://i.imgur.com/05IaazJ.jpg",
+                    "https://i.imgur.com/RtRHte4.jpg",
+                    "https://i.imgur.com/nIeQSBE.jpg",
+                    "https://i.imgur.com/kgGgD7J.jpg",
+                    "https://i.imgur.com/5Lk1u7d.jpg",
+                    "https://i.imgur.com/8PJ0r0n.jpg",
+                    "https://i.imgur.com/7ujHuDq.jpg",
+                    "https://i.imgur.com/yQ4R9vS.jpg",
+                    "https://i.imgur.com/wWDCmMX.jpg",
+                    "https://i.imgur.com/eI2qL8b.jpg",
+                    "https://i.imgur.com/hB9Td2z.jpg",
+                    "https://i.imgur.com/VRTj4XT.jpg",
+                    "https://i.imgur.com/bF8rova.jpg",
+                    "https://i.imgur.com/HvmevBp.jpg",
+                    "https://i.imgur.com/Tgpa7vA.jpg",
+                    "https://i.imgur.com/ZqEnLJI.jpg"
+                ]
+            }
+        },
         "217": {
             "title": "Color Chapter 217 (JP)",
             "volume": "22",

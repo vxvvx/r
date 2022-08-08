@@ -414,27 +414,27 @@
         "207": {
             "title": "Color Chapter 207 (JP)",
             "volume": "21",
-            "last_updated": "1659498766",
+            "last_updated": "1659932531",
             "groups": {
-                "raws - cheese": [
-                    "https://i.imgur.com/F5hYphJ.png",
-                    "https://i.imgur.com/6OVlkb6.png",
-                    "https://i.imgur.com/HWLqWyW.png",
-                    "https://i.imgur.com/ASxxPea.png",
-                    "https://i.imgur.com/wjLHO60.png",
-                    "https://i.imgur.com/zMAR5yk.png",
-                    "https://i.imgur.com/k6HqABI.png",
-                    "https://i.imgur.com/1rdc8A5.png",
-                    "https://i.imgur.com/XjvYX8X.png",
-                    "https://i.imgur.com/2NNz6pe.png",
-                    "https://i.imgur.com/DSqqjrg.png",
-                    "https://i.imgur.com/KrRfnVp.png",
-                    "https://i.imgur.com/pKr2Atz.png",
-                    "https://i.imgur.com/1o0XEO2.png",
-                    "https://i.imgur.com/FeO12tQ.png",
-                    "https://i.imgur.com/eUSie5H.png",
-                    "https://i.imgur.com/7ZMHW1M.png",
-                    "https://i.imgur.com/GSlWzxo.png"
+                "raws - cheeseHQ": [
+                    "https://i.imgur.com/vusH9Bm.png",
+                    "https://i.imgur.com/aG94vSh.png",
+                    "https://i.imgur.com/uiTqqIs.png",
+                    "https://i.imgur.com/QWaSzHf.png",
+                    "https://i.imgur.com/3M40Qtw.png",
+                    "https://i.imgur.com/ChDt27p.png",
+                    "https://i.imgur.com/XKxfK26.png",
+                    "https://i.imgur.com/815g3Gg.png",
+                    "https://i.imgur.com/cRt6YSv.png",
+                    "https://i.imgur.com/H0riviX.png",
+                    "https://i.imgur.com/CEwXh8y.png",
+                    "https://i.imgur.com/rrwTfQj.png",
+                    "https://i.imgur.com/ZUYW9Bw.png",
+                    "https://i.imgur.com/KlKimFN.png",
+                    "https://i.imgur.com/c7D7nLq.png",
+                    "https://i.imgur.com/499ohfg.png",
+                    "https://i.imgur.com/XQtmdxm.png",
+                    "https://i.imgur.com/xGya9pw.png"
 
                 ]
             }

@@ -414,7 +414,7 @@
         "207": {
             "title": "Color Chapter 207 (JP)",
             "volume": "21",
-            "last_updated": "1659932531",
+            "last_updated": "1660065718",
             "groups": {
                 "raws - cheeseHQ": [
                     "https://i.imgur.com/vusH9Bm.png",
@@ -432,7 +432,7 @@
                     "https://i.imgur.com/ZUYW9Bw.png",
                     "https://i.imgur.com/KlKimFN.png",
                     "https://i.imgur.com/c7D7nLq.png",
-                    "https://i.imgur.com/499ohfg.png",
+                    "https://i.imgur.com/KE3QTJX.png",
                     "https://i.imgur.com/XQtmdxm.png",
                     "https://i.imgur.com/xGya9pw.png"
 

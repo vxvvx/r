@@ -1380,7 +1380,8 @@
                     "https://i.imgur.com/CrneGTh.png",
                     "https://i.imgur.com/RXRyXv4.png",
                     "https://i.imgur.com/HTXEtGh.png",
-                    "https://i.imgur.com/c7UfnAO.png"
+                    "https://i.imgur.com/c7UfnAO.png",
+                    "https://i.imgur.com/f52Pii3.png?extra=yes"
                 ]
             }
         },
@@ -1435,7 +1436,8 @@
                     "https://i.imgur.com/UVgSeUs.png",
                     "https://i.imgur.com/9DhXRj3.png",
                     "https://i.imgur.com/m3qnBcU.png",
-                    "https://i.imgur.com/a6sCcAa.png"
+                    "https://i.imgur.com/a6sCcAa.png",
+                    "https://i.imgur.com/0TaTh95.png?extra=yes"
                 ]
             }
         },
@@ -1462,7 +1464,8 @@
                     "https://i.imgur.com/bTmlRA9.png",
                     "https://i.imgur.com/6glPWUn.png",
                     "https://i.imgur.com/tBM1pAf.png",
-                    "https://i.imgur.com/nHrrXKF.png"
+                    "https://i.imgur.com/nHrrXKF.png",
+                    "https://i.imgur.com/YkQgIjP.png?extra=yes"
                 ]
             }
         },
@@ -1489,7 +1492,8 @@
                     "https://i.imgur.com/yhCE4AW.png",
                     "https://i.imgur.com/X9WzCAu.png",
                     "https://i.imgur.com/MNtjPGD.png",
-                    "https://i.imgur.com/G4u6gyi.png"
+                    "https://i.imgur.com/G4u6gyi.png",
+                    "https://i.imgur.com/fj9eAkt.png?extra=yes"
                 ]
             }
         },
@@ -1516,7 +1520,8 @@
                     "https://i.imgur.com/GIxMdgL.png",
                     "https://i.imgur.com/o2ByvPH.png",
                     "https://i.imgur.com/bvFTliS.png",
-                    "https://i.imgur.com/PaHayXl.png"
+                    "https://i.imgur.com/PaHayXl.png",
+                    "https://i.imgur.com/wC6PCUF.png?extra=yes"
                 ]
             }
         },
@@ -1543,7 +1548,8 @@
                     "https://i.imgur.com/PWL1vrx.png",
                     "https://i.imgur.com/icJ1yDW.png",
                     "https://i.imgur.com/eVGntF0.png",
-                    "https://i.imgur.com/GoKJZFi.png"
+                    "https://i.imgur.com/GoKJZFi.png",
+                    "https://i.imgur.com/lncQXUf.png?extra=yes"
                 ]
             }
         },
@@ -1570,7 +1576,8 @@
                     "https://i.imgur.com/JSyk5vh.png",
                     "https://i.imgur.com/IPWNtdn.png",
                     "https://i.imgur.com/8Rkr1KP.png",
-                    "https://i.imgur.com/wTf4nF6.png"
+                    "https://i.imgur.com/wTf4nF6.png",
+                    "https://i.imgur.com/ecHjR9Y.png?extra=yes"
                 ]
             }
         },
@@ -1598,7 +1605,8 @@
                     "https://i.imgur.com/qq22Jqs.png",
                     "https://i.imgur.com/mJm8KLa.png",
                     "https://i.imgur.com/n1eoeuc.png",
-                    "https://i.imgur.com/a5GTRJP.png"
+                    "https://i.imgur.com/a5GTRJP.png",
+                    "https://i.imgur.com/z9589HM.png?extra=yes"
                 ]
             }
         },
@@ -1625,7 +1633,8 @@
                     "https://i.imgur.com/8t0qhJu.png",
                     "https://i.imgur.com/9e9xd36.png",
                     "https://i.imgur.com/thGEW8P.png",
-                    "https://i.imgur.com/WDJTLo9.png"
+                    "https://i.imgur.com/WDJTLo9.png",
+                    "https://i.imgur.com/teTAhL4.png?extra=yes"
                 ]
             }
         },
@@ -1652,7 +1661,8 @@
                     "https://i.imgur.com/1ZTuleW.png",
                     "https://i.imgur.com/SFWX3gJ.png",
                     "https://i.imgur.com/2FKnywi.png",
-                    "https://i.imgur.com/Q9Vbkk2.png"
+                    "https://i.imgur.com/Q9Vbkk2.png",
+                    "https://i.imgur.com/fy0REEs.png?extra=yes"
                 ]
             }
         },
@@ -1679,7 +1689,8 @@
                     "https://i.imgur.com/PiH1cCb.png",
                     "https://i.imgur.com/0W0CghC.png",
                     "https://i.imgur.com/mSrUyeq.png",
-                    "https://i.imgur.com/N9YQqpw.png"
+                    "https://i.imgur.com/N9YQqpw.png",
+                    "https://i.imgur.com/hoZSMie.png?extra=yes"
                 ]
             }
         }

@@ -1774,6 +1774,33 @@
                     "https://i.imgur.com/O3chsN8.png"
                 ]
             }
+        },
+        "255": {
+            "title": "Color Chapter 255 (JP)",
+            "volume": "26",
+            "last_updated": "1663987192",
+            "groups": {
+                "raws - cheeseHQ": [
+                    "https://i.imgur.com/tlAC4ik.png",
+                    "https://i.imgur.com/vjv7KNQ.png",
+                    "https://i.imgur.com/I1BDVYn.png",
+                    "https://i.imgur.com/zet6Uk2.png",
+                    "https://i.imgur.com/ND5dO2U.png",
+                    "https://i.imgur.com/cDXFDN2.png",
+                    "https://i.imgur.com/rf1kOeL.png",
+                    "https://i.imgur.com/UxerIqe.png",
+                    "https://i.imgur.com/BK09W9b.png",
+                    "https://i.imgur.com/Omad9AZ.png",
+                    "https://i.imgur.com/7yGMuYV.png",
+                    "https://i.imgur.com/fhOUpdB.png",
+                    "https://i.imgur.com/TpHhpzj.png",
+                    "https://i.imgur.com/x2QdEDE.png",
+                    "https://i.imgur.com/RX2wlQt.png",
+                    "https://i.imgur.com/rtOwwku.png",
+                    "https://i.imgur.com/dRHstJB.png",
+                    "https://i.imgur.com/AgqRzDM.png"
+                ]
+            }
         }
     }
 }

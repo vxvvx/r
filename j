@@ -1855,6 +1855,33 @@
                     "https://i.imgur.com/MwVkIIo.png"
                 ]
             }
+        },
+        "258": {
+            "title": "Color Chapter 258 (JP)",
+            "volume": "26",
+            "last_updated": "1663988245",
+            "groups": {
+                "raws - cheeseHQ": [
+                    "https://i.imgur.com/CE0JKsx.png",
+                    "https://i.imgur.com/wFlh2EQ.png",
+                    "https://i.imgur.com/kMeLd6K.png",
+                    "https://i.imgur.com/nzyvD8P.png",
+                    "https://i.imgur.com/z80biLL.png",
+                    "https://i.imgur.com/RxH6XLF.png",
+                    "https://i.imgur.com/CyHdxf8.png",
+                    "https://i.imgur.com/JPx0Xir.png",
+                    "https://i.imgur.com/r7QDner.png",
+                    "https://i.imgur.com/07HW9jG.png",
+                    "https://i.imgur.com/7Kq1PR4.png",
+                    "https://i.imgur.com/nnaeAi7.png",
+                    "https://i.imgur.com/5nonwgQ.png",
+                    "https://i.imgur.com/MewlSNf.png",
+                    "https://i.imgur.com/VF4LMbL.png",
+                    "https://i.imgur.com/ht5MThf.png",
+                    "https://i.imgur.com/VABkwSf.png",
+                    "https://i.imgur.com/dqQAkyl.png"
+                ]
+            }
         }
     }
 }

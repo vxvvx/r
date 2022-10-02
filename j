@@ -32,6 +32,34 @@
                 ]
             }
         },
+        "104": {
+            "title": "Color Chapter 104 (JP)",
+            "volume": "11",
+            "last_updated": "1664713430",
+            "groups": {
+                "raws - cheeseUHQ": [
+                    "https://i.imgur.com/aANiFnU.png",
+                    "https://i.imgur.com/3kojyuy.png",
+                    "https://i.imgur.com/UEN4zIN.png",
+                    "https://i.imgur.com/sCtMNJ4.png",
+                    "https://i.imgur.com/C7P1Bk0.png",
+                    "https://i.imgur.com/Iz7DBsp.png",
+                    "https://i.imgur.com/vE3oexS.png",
+                    "https://i.imgur.com/gScYB4u.png",
+                    "https://i.imgur.com/vXL5uFz.png",
+                    "https://i.imgur.com/pgHA8vP.png",
+                    "https://i.imgur.com/8yEflql.png",
+                    "https://i.imgur.com/LInwSUh.png",
+                    "https://i.imgur.com/dDN8NPu.png",
+                    "https://i.imgur.com/rQq1MHJ.png",
+                    "https://i.imgur.com/lk8vBko.png",
+                    "https://i.imgur.com/WwbOFjh.png",
+                    "https://i.imgur.com/x3H1Pwj.png",
+                    "https://i.imgur.com/BTW1XkK.png",
+                    "https://i.imgur.com/NnPTbfg.png"
+                ]
+            }
+        },
         "105": {
             "title": "Color Chapter 105 (JP)",
             "volume": "11",

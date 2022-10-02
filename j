@@ -39,7 +39,6 @@
             "groups": {
                 "raws - cheeseUHQ": [
                     "https://i.imgur.com/aANiFnU.png",
-                    "https://i.imgur.com/3kojyuy.png",
                     "https://i.imgur.com/UEN4zIN.png",
                     "https://i.imgur.com/sCtMNJ4.png",
                     "https://i.imgur.com/C7P1Bk0.png",

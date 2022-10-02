@@ -28,7 +28,7 @@
                     "https://i.imgur.com/0gqeXf0.png",
                     "https://i.imgur.com/ZJTDQlr.png",
                     "https://i.imgur.com/UIvct9U.png",
-                    "https://i.imgur.com/5edJ6dS.png
+                    "https://i.imgur.com/5edJ6dS.png"
                 ]
             }
         },

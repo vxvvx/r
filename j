@@ -5,6 +5,34 @@
     "author": "Aka Akasaka",
     "cover": "https://i.imgur.com/QY6w6EN.jpg",
     "chapters": {
+        "105": {
+            "title": "Color Chapter 105 (JP)",
+            "volume": "11",
+            "last_updated": "1664688903",
+            "groups": {
+                "raws - cheeseUHQ": [
+                    "https://i.imgur.com/j8Tyv9C.png",
+                    "https://i.imgur.com/VnAVW3E.png",
+                    "https://i.imgur.com/VSkJTgb.png",
+                    "https://i.imgur.com/zqhw7sC.png",
+                    "https://i.imgur.com/JzxsHA2.png",
+                    "https://i.imgur.com/QWEGOMH.png",
+                    "https://i.imgur.com/DPh40Ze.png",
+                    "https://i.imgur.com/1Lj44Sn.png",
+                    "https://i.imgur.com/4OYW3q3.png",
+                    "https://i.imgur.com/SoxR1r5.png",
+                    "https://i.imgur.com/NaWMPix.png",
+                    "https://i.imgur.com/ATmF2Oc.png",
+                    "https://i.imgur.com/4M81DvX.png",
+                    "https://i.imgur.com/GIan25h.png",
+                    "https://i.imgur.com/kG5rvse.png",
+                    "https://i.imgur.com/Z2M1rQt.png",
+                    "https://i.imgur.com/o2CEX8O.png",
+                    "https://i.imgur.com/k3DFfum.png",
+                    "https://i.imgur.com/Kl42t9D.png"
+                ]
+            }
+        },
         "106": {
             "title": "Color Chapter 106 (JP)",
             "volume": "11",

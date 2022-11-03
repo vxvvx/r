@@ -196,7 +196,7 @@
             }
         },
         "114": {
-            "title": "Color Chapter 113 (JP)",
+            "title": "Color Chapter 114 (JP)",
             "volume": "12",
             "last_updated": "1667433616",
             "groups": {
@@ -219,6 +219,33 @@
                     "https://i.imgur.com/PsqUDn2.png",
                     "https://i.imgur.com/HryGmlq.png",
                     "https://i.imgur.com/Asmqbse.png"
+                ]
+            }
+        },
+        "115": {
+            "title": "Color Chapter 115 (JP)",
+            "volume": "12",
+            "last_updated": "1667435458",
+            "groups": {
+                "raws - vexUHQ": [
+                    "https://i.imgur.com/Me6ejbr.png",
+                    "https://i.imgur.com/cSXuGkm.png",
+                    "https://i.imgur.com/vXMreU8.png",
+                    "https://i.imgur.com/s5bDRgB.png",
+                    "https://i.imgur.com/39bxuxt.png",
+                    "https://i.imgur.com/IK7yS6Z.png",
+                    "https://i.imgur.com/zaSAvse.png",
+                    "https://i.imgur.com/Q4ibmOH.png",
+                    "https://i.imgur.com/oHF8LNM.png",
+                    "https://i.imgur.com/zsgpfsx.png",
+                    "https://i.imgur.com/7JxWOX5.png",
+                    "https://i.imgur.com/DiMEbRO.png",
+                    "https://i.imgur.com/omiSvp0.png",
+                    "https://i.imgur.com/pLFEgWY.png",
+                    "https://i.imgur.com/CYcheCb.png",
+                    "https://i.imgur.com/cZqa89C.png",
+                    "https://i.imgur.com/OikmFHh.png",
+                    "https://i.imgur.com/kXED5v5.png"
                 ]
             }
         },

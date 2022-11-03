@@ -168,6 +168,89 @@
                 ]
             }
         },
+        "109": {
+            "title": "Color Chapter 109 (JP)",
+            "volume": "11",
+            "last_updated": "1667518655",
+            "groups": {
+                "raws - cheeseUHQ": [
+                    "https://i.imgur.com/oxS2uNA.png",
+                    "https://i.imgur.com/xYQO4XD.png",
+                    "https://i.imgur.com/OLzkpgI.png",
+                    "https://i.imgur.com/N1mA9iU.png",
+                    "https://i.imgur.com/QLzD78E.png",
+                    "https://i.imgur.com/PMXwrA8.png",
+                    "https://i.imgur.com/E6K3WiR.png",
+                    "https://i.imgur.com/pDRAqtd.png",
+                    "https://i.imgur.com/NwoRwFe.png",
+                    "https://i.imgur.com/XcAztxT.png",
+                    "https://i.imgur.com/m5O5Flg.png",
+                    "https://i.imgur.com/VZcL7sQ.png",
+                    "https://i.imgur.com/uigbGy3.png",
+                    "https://i.imgur.com/nUX21RN.png",
+                    "https://i.imgur.com/rCmySR4.png",
+                    "https://i.imgur.com/n2XyxTb.png",
+                    "https://i.imgur.com/UxJI3LU.png",
+                    "https://i.imgur.com/r17AiQz.png"
+                ]
+            }
+        },
+        "110": {
+            "title": "Color Chapter 110 (JP)",
+            "volume": "11",
+            "last_updated": "1667518756",
+            "groups": {
+                "raws - cheeseUHQ": [
+                    "https://i.imgur.com/R6aIgZx.jpg?_w.",
+                    "https://i.imgur.com/mCCdqNZ.png",
+                    "https://i.imgur.com/XcwDFvr.png",
+                    "https://i.imgur.com/zZhcbuX.png",
+                    "https://i.imgur.com/37TTMoR.png",
+                    "https://i.imgur.com/Ct08OG5.png",
+                    "https://i.imgur.com/G2eL5M0.png",
+                    "https://i.imgur.com/QrqdKfa.png",
+                    "https://i.imgur.com/f39AoPi.png",
+                    "https://i.imgur.com/FrJj536.png",
+                    "https://i.imgur.com/iiMpWJ3.png",
+                    "https://i.imgur.com/0FwWkXP.png",
+                    "https://i.imgur.com/ANxB5Yu.png",
+                    "https://i.imgur.com/Ten0uNZ.png",
+                    "https://i.imgur.com/yol5JfX.png",
+                    "https://i.imgur.com/sCmTAs2.png",
+                    "https://i.imgur.com/y1MFUaw.png",
+                    "https://i.imgur.com/sQ4tc5H.png",
+                    "https://i.imgur.com/n0QKoQw.png"
+                ]
+            }
+        },
+        "111": {
+            "title": "Color Chapter 111 (JP)",
+            "volume": "11",
+            "last_updated": "1667518843",
+            "groups": {
+                "raws - cheeseUHQ": [
+                    "https://i.imgur.com/Uvy8PYh.png",
+                    "https://i.imgur.com/3zYK6oS.png",
+                    "https://i.imgur.com/r200BT1.png",
+                    "https://i.imgur.com/OY5TUVN.png",
+                    "https://i.imgur.com/GuNMnsu.png",
+                    "https://i.imgur.com/RPNJACO.png",
+                    "https://i.imgur.com/haIUIaI.png",
+                    "https://i.imgur.com/HKNuraf.png",
+                    "https://i.imgur.com/4O7wZmw.png",
+                    "https://i.imgur.com/LeioZTU.png",
+                    "https://i.imgur.com/QNEDddG.png",
+                    "https://i.imgur.com/Dw2qIVl.png",
+                    "https://i.imgur.com/IAUduu3.png",
+                    "https://i.imgur.com/tlBMHyr.png",
+                    "https://i.imgur.com/VVIpUtA.png",
+                    "https://i.imgur.com/a7OaiVr.png",
+                    "https://i.imgur.com/N4xT1ie.png",
+                    "https://i.imgur.com/o0VMp68.png",
+                    "https://i.imgur.com/T1xsQs9.png"
+                ]
+            }
+        },
         "112": {
             "title": "Color Chapter 112 (JP)",
             "volume": "12",

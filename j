@@ -630,6 +630,60 @@
                 ]
             }
         },
+        "125": {
+            "title": "Color Chapter 125 (JP)",
+            "volume": "13",
+            "last_updated": "1667607014",
+            "groups": {
+                "raws - vexUHQ": [
+                    "https://i.imgur.com/U96dZm6.png",
+                    "https://i.imgur.com/LTFqBNW.png",
+                    "https://i.imgur.com/1V1xwJm.png",
+                    "https://i.imgur.com/ffSpcuU.png",
+                    "https://i.imgur.com/tqsRylY.png",
+                    "https://i.imgur.com/g3ZdEuz.png",
+                    "https://i.imgur.com/BlI9Yuh.png",
+                    "https://i.imgur.com/slNLhWG.png",
+                    "https://i.imgur.com/KD8f0fl.png",
+                    "https://i.imgur.com/8zbXOk1.png",
+                    "https://i.imgur.com/AExlLf3.png",
+                    "https://i.imgur.com/eRhj106.png",
+                    "https://i.imgur.com/sXVzEcf.png",
+                    "https://i.imgur.com/csdBsYR.png",
+                    "https://i.imgur.com/StLQ8t4.png",
+                    "https://i.imgur.com/Xzxx5ad.png",
+                    "https://i.imgur.com/WOasPlP.png",
+                    "https://i.imgur.com/8uQjY8C.png"
+                ]
+            }
+        },
+        "126": {
+            "title": "Color Chapter 126 (JP)",
+            "volume": "13",
+            "last_updated": "1667611019",
+            "groups": {
+                "raws - vexUHQ": [
+                    "https://i.imgur.com/b7e5LcN.png",
+                    "https://i.imgur.com/2VRfUNr.png",
+                    "https://i.imgur.com/xss65XU.png",
+                    "https://i.imgur.com/lq5Ajxx.png",
+                    "https://i.imgur.com/vZfr3mZ.png",
+                    "https://i.imgur.com/NlWIorx.png",
+                    "https://i.imgur.com/p62FZjD.png",
+                    "https://i.imgur.com/IqQ5MTr.png",
+                    "https://i.imgur.com/DnhMvL2.png",
+                    "https://i.imgur.com/8bLdB2y.png",
+                    "https://i.imgur.com/L4lJKgK.png",
+                    "https://i.imgur.com/wJUZLLh.png",
+                    "https://i.imgur.com/Hr4xxWq.png",
+                    "https://i.imgur.com/yIWANTu.png",
+                    "https://i.imgur.com/bbr0aX1.png",
+                    "https://i.imgur.com/JxflDWx.png",
+                    "https://i.imgur.com/Gx2g02I.png",
+                    "https://i.imgur.com/d0iEh3Q.png"
+                ]
+            }
+        },
         "159": {
             "title": "Color Chapter 159 (JP)",
             "volume": "16",

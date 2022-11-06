@@ -1127,7 +1127,7 @@
         "144": {
             "title": "Color Chapter 144 (JP)",
             "volume": "15",
-            "last_updated": "1667701807",
+            "last_updated": "1667704226",
             "groups": {
                 "raws - vexUHQ": [
                     "https://i.imgur.com/uv2EgDn.png",
@@ -1146,7 +1146,35 @@
                     "https://i.imgur.com/o9hIYcT.png",
                     "https://i.imgur.com/wce0c6X.png",
                     "https://i.imgur.com/XqUPtdf.png",
-                    "https://i.imgur.com/N2B1LSb.png"
+                    "https://i.imgur.com/N2B1LSb.png",
+                    "https://i.imgur.com/UxwSPti.png"
+                ]
+            }
+        },
+        "145": {
+            "title": "Color Chapter 145 (JP)",
+            "volume": "15",
+            "last_updated": "1667704221",
+            "groups": {
+                "raws - vexUHQ": [
+                    "https://i.imgur.com/zuR7tTI.png",
+                    "https://i.imgur.com/0HKh961.png",
+                    "https://i.imgur.com/DTvgwtD.png",
+                    "https://i.imgur.com/q6lQ75c.png",
+                    "https://i.imgur.com/54XRqJ8.png",
+                    "https://i.imgur.com/SDqDr6L.png",
+                    "https://i.imgur.com/k15H7gZ.png",
+                    "https://i.imgur.com/9YRa9Hp.png",
+                    "https://i.imgur.com/RNqgREO.png",
+                    "https://i.imgur.com/F7y0Sea.png",
+                    "https://i.imgur.com/uNEMJlC.png",
+                    "https://i.imgur.com/TzkF1iX.png",
+                    "https://i.imgur.com/2SjAtuH.png",
+                    "https://i.imgur.com/Zoacp2c.png",
+                    "https://i.imgur.com/XQ5RQdr.png",
+                    "https://i.imgur.com/0vluT3Q.png",
+                    "https://i.imgur.com/QmVgQ4U.png",
+                    "https://i.imgur.com/ZrMFYio.png"
                 ]
             }
         },

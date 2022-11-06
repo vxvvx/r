@@ -1097,6 +1097,33 @@
                 ]
             }
         },
+        "143": {
+            "title": "Color Chapter 143 (JP)",
+            "volume": "15",
+            "last_updated": "1667699705",
+            "groups": {
+                "raws - vexUHQ": [
+                    "https://i.imgur.com/nLz3Jnh.png",
+                    "https://i.imgur.com/4hwn5LV.png",
+                    "https://i.imgur.com/zzBinPx.png",
+                    "https://i.imgur.com/0lMIZlt.png",
+                    "https://i.imgur.com/Gk3JNcp.png",
+                    "https://i.imgur.com/ac9zm5C.png",
+                    "https://i.imgur.com/s9lzJaN.png",
+                    "https://i.imgur.com/oftQUJM.png",
+                    "https://i.imgur.com/8PzWdP3.png",
+                    "https://i.imgur.com/jlGyH59.png",
+                    "https://i.imgur.com/xk8YvDx.png",
+                    "https://i.imgur.com/QIXSsWN.png",
+                    "https://i.imgur.com/fArerXS.png",
+                    "https://i.imgur.com/XZzDBD9.png",
+                    "https://i.imgur.com/dMasvXR.png",
+                    "https://i.imgur.com/Hsi17es.png",
+                    "https://i.imgur.com/6mUkDWt.png",
+                    "https://i.imgur.com/Is6s6ec.png"
+                ]
+            }
+        },
         "159": {
             "title": "Color Chapter 159 (JP)",
             "volume": "16",

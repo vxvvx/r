@@ -552,10 +552,10 @@
         "123": {
             "title": "Color Chapter 123 (JP)",
             "volume": "13",
-            "last_updated": "1667605539",
+            "last_updated": "1669527518",
             "groups": {
                 "raws - vexUHQ": [
-                    "https://i.imgur.com/Nj282CB.png",
+                    "https://i.imgur.com/1IOWSYO.png",
                     "https://i.imgur.com/HmOt2KR.png",
                     "https://i.imgur.com/CnG09iI.png",
                     "https://i.imgur.com/j1SbFrw.png",

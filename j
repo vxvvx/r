@@ -1453,10 +1453,10 @@
         "156": {
             "title": "Color Chapter 156 (JP)",
             "volume": "16",
-            "last_updated": "1667748808",
+            "last_updated": "1669527010",
             "groups": {
                 "raws - vexUHQ": [
-                    "https://i.imgur.com/VJsVDiu.png",
+                    "https://i.imgur.com/4058c0r.png",
                     "https://i.imgur.com/E7LFu2a.png",
                     "https://i.imgur.com/zDsrDKv.png",
                     "https://i.imgur.com/CqqqbPj.png",

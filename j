@@ -633,10 +633,10 @@
         "126": {
             "title": "Color Chapter 126 (JP)",
             "volume": "13",
-            "last_updated": "1667611019",
+            "last_updated": "1669527840",
             "groups": {
                 "raws - vexUHQ": [
-                    "https://i.imgur.com/b7e5LcN.png",
+                    "https://i.imgur.com/1IOWSYO.png",
                     "https://i.imgur.com/2VRfUNr.png",
                     "https://i.imgur.com/xss65XU.png",
                     "https://i.imgur.com/lq5Ajxx.png",

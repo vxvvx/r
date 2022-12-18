@@ -3439,27 +3439,28 @@
         "252": {
             "title": "Color Chapter 252 (JP)",
             "volume": "26",
-            "last_updated": "1663985799",
+            "last_updated": "1671399406",
             "groups": {
-                "raws - cheeseHQ": [
-                    "https://i.imgur.com/JIDO2wo.png",
-                    "https://i.imgur.com/xRUY0ui.png",
-                    "https://i.imgur.com/UYmdurI.png",
-                    "https://i.imgur.com/83iPkJT.png",
-                    "https://i.imgur.com/hbSazyP.png",
-                    "https://i.imgur.com/2QjXy2t.png",
-                    "https://i.imgur.com/vEEbtet.png",
-                    "https://i.imgur.com/Fq1sNAh.png",
-                    "https://i.imgur.com/s3IAHNz.png",
-                    "https://i.imgur.com/UQnur0C.png",
-                    "https://i.imgur.com/wFwe1Bo.png",
-                    "https://i.imgur.com/lkr675v.png",
-                    "https://i.imgur.com/wOEbrBG.png",
-                    "https://i.imgur.com/RbWlLLe.png",
-                    "https://i.imgur.com/DxcsMOJ.png",
-                    "https://i.imgur.com/eCmDVg7.png",
-                    "https://i.imgur.com/EsU786Y.png",
-                    "https://i.imgur.com/e2P8avi.png"
+                "raws - kindHQ": [
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/01.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/02.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/03.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/04.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/05.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/06.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/07.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/08.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/09.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/10.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/11.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/12.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/13.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/14.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/15.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/16.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/17.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/18.jpeg",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/26/252/19-extra.jpeg"
                 ]
             }
         },

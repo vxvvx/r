@@ -2018,6 +2018,33 @@
                 ]
             }
         },
+        "178": {
+            "title": "Color Chapter 178 (JP)",
+            "volume": "18",
+            "last_updated": "1679503839",
+            "groups": {
+                "raws- vexUHQ": [
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/01.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/02.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/03.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/04.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/05.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/06.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/07.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/08.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/09.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/10.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/11.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/12.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/13.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/14.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/15.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/16.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/17.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/178/18.png"
+                ]
+            }
+        },
         "192": {
             "title": "Color Chapter 192 (JP)",
             "volume": "20",

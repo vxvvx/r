@@ -4096,44 +4096,26 @@
         "262": {
             "title": "Color Chapter 262 (JP)",
             "volume": "27",
-            "last_updated": "1682019274",
+            "last_updated": "1682019455",
             "groups": {
                 "raws- cheese844": [
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/01-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/01.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/02-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/02.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/03-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/03.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/04-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/04.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/05-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/05.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/06-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/06.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/07-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/07.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/08-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/08.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/09-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/09.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/10-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/10.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/11-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/11.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/12-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/12.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/13-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/13.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/14-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/14.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/15-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/15.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/16-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/16.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/17-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/17.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/262/18-crop.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/262/18.png"
                 ]
             }
@@ -4141,7 +4123,7 @@
         "263": {
             "title": "Color Chapter 263 (JP)",
             "volume": "27",
-            "last_updated": "1682019274",
+            "last_updated": "1682019455",
             "groups": {
                 "raws- cheese844": [
                     "https://raw.githubusercontent.com/vxvvx/r/m/263/01.png",
@@ -4168,7 +4150,7 @@
         "264": {
             "title": "Color Chapter 264 (JP)",
             "volume": "27",
-            "last_updated": "1682019274",
+            "last_updated": "1682019455",
             "groups": {
                 "raws- cheese844": [
                     "https://raw.githubusercontent.com/vxvvx/r/m/264/01.png",
@@ -4195,7 +4177,7 @@
         "265": {
             "title": "Color Chapter 265 (JP)",
             "volume": "27",
-            "last_updated": "1682019274",
+            "last_updated": "1682019455",
             "groups": {
                 "raws- cheese844": [
                     "https://raw.githubusercontent.com/vxvvx/r/m/265/01.png",

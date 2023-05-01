@@ -4359,8 +4359,7 @@
                     "https://raw.githubusercontent.com/vxvvx/r/m/277/15.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/277/16.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/277/17.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/277/18.png",
-                    "https://raw.githubusercontent.com/vxvvx/r/m/277/9.png"
+                    "https://raw.githubusercontent.com/vxvvx/r/m/277/18.png"
                 ]
             }
         },

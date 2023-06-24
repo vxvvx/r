@@ -2262,6 +2262,114 @@
                 ]
             }
         },
+        "187": {
+            "title": "Color Chapter 187 (JP)",
+            "volume": "19",
+            "last_updated": "1687632774",
+            "groups": {
+                "raws - SakushiUHQ": [
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/01.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/02.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/03.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/04.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/05.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/06.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/07.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/08.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/09.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/10.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/11.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/12.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/13.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/14.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/15.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/16.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/17.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/187/18.png"
+                ]
+            }
+        },
+        "188": {
+            "title": "Color Chapter 188 (JP)",
+            "volume": "19",
+            "last_updated": "1687632774",
+            "groups": {
+                "raws - SakushiUHQ": [
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/01.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/02.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/03.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/04.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/05.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/06.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/07.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/08.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/09.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/10.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/11.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/12.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/13.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/14.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/15.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/16.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/17.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/188/18.png"
+                ]
+            }
+        },
+        "189": {
+            "title": "Color Chapter 189 (JP)",
+            "volume": "19",
+            "last_updated": "1687632774",
+            "groups": {
+                "raws - SakushiUHQ": [
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/01.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/02.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/03.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/04.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/05.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/06.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/07.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/08.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/09.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/10.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/11.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/12.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/13.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/14.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/15.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/16.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/17.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/189/18.png"
+                ]
+            }
+        },
+        "190": {
+            "title": "Color Chapter 190 (JP)",
+            "volume": "19",
+            "last_updated": "1687632774",
+            "groups": {
+                "raws - SakushiUHQ": [
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/01.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/02.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/03.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/04.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/05.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/06.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/07.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/08.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/09.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/10.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/11.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/12.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/13.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/14.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/15.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/16.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/17.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/190/18.png"
+                ]
+            }
+        },
         "192": {
             "title": "Color Chapter 192 (JP)",
             "volume": "20",

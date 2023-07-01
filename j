@@ -2370,7 +2370,6 @@
                 ]
             }
         },
-    "chapters": {
         "191": {
             "title": "Color Chapter 191 (JP)",
             "volume": "19",

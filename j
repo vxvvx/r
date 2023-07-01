@@ -2319,7 +2319,7 @@
         "189": {
             "title": "Color Chapter 189 (JP)",
             "volume": "19",
-            "last_updated": "1687632774",
+            "last_updated": "1688186575",
             "groups": {
                 "raws - SakushiUHQ": [
                     "https://raw.githubusercontent.com/vxvvx/r/m/189/01.png",
@@ -2346,7 +2346,7 @@
         "190": {
             "title": "Color Chapter 190 (JP)",
             "volume": "19",
-            "last_updated": "1687632774",
+            "last_updated": "1688186575",
             "groups": {
                 "raws - SakushiUHQ": [
                     "https://raw.githubusercontent.com/vxvvx/r/m/190/01.png",
@@ -2367,6 +2367,34 @@
                     "https://raw.githubusercontent.com/vxvvx/r/m/190/16.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/190/17.png",
                     "https://raw.githubusercontent.com/vxvvx/r/m/190/18.png"
+                ]
+            }
+        },
+    "chapters": {
+        "191": {
+            "title": "Color Chapter 191 (JP)",
+            "volume": "19",
+            "last_updated": "1688186575",
+            "groups": {
+                "raws - SakushiUHQ": [
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/01.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/02.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/03.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/04.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/05.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/06.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/07.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/08.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/09.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/10.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/11.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/12.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/13.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/14.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/15.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/16.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/17.png",
+                    "https://raw.githubusercontent.com/vxvvx/r/m/191/18.png"
                 ]
             }
         },
